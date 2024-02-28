@@ -2,5 +2,5 @@
 # fastcampus-jenkins
 osgeum
 
-
+update
 osgeum
