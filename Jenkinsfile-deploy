@@ -17,7 +17,7 @@ pipeline {
 
     // stages > stage > steps 순으로 구성
     stages {
-          stage("Checking Deployment") {
+        stage("Checking Deployment") {
               when {
                   environment name: 'ARE_YOU_SURE', value: 'false'
               }
